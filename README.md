@@ -1,4 +1,4 @@
-Hi, I’m @KitCattok
+Hi, I’m KitCattok, you can refer to me however as Kit
 
 Most of what I toss here will be private projects. In the future I intend to release some of my works to the public.
 In the meantime consider me an enthusiast of memory management and optimization.
